@@ -1,3 +1,6 @@
+# Description
+This project is a user interface specifically designed for administrators to manage and monitor the various aspects of a system or application. This can include monitoring user activity, managing user accounts and permissions, monitoring system performance and usage, and performing other administrative tasks. An admin dashboard UI typically includes a variety of different tools and features, such as user management, performance monitoring, and reporting. It is intended to provide a user-friendly interface that allows administrators to easily access and manage the various functions and features of the system or application they are responsible for.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
